@@ -98,7 +98,7 @@ Our topic raised three questions, with the following hypotheses, null and altern
 >
 >**_Null Hypothesis:_**  If higher foot traffic does not influence zomato ratings, then higher foot traffic areas will not have a higher average rating than low foot traffic areas.
 >
->**_Alternative Hypothesis:_** If higher foot traffic has any effect on zomato ratings, then higher foot traffic areas will have a different average rating than low foot traffic areas?
+>**_Alternative Hypothesis:_** If higher foot traffic has any effect on zomato ratings, then higher foot traffic areas will have a different average rating than low foot traffic areas? 
 
 2.  **Does foot traffic influence the price of eatery?** 
 
